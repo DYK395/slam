@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/gnss-2/ws_fast_lio/slam/devel -DCMAKE_INSTALL_PREFIX=/home/gnss-2/ws_fast_lio/slam/install -G Unix Makefiles

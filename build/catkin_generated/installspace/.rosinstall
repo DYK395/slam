@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/gnss-2/ws_fast_lio/slam/install/setup.sh
